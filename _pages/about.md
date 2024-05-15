@@ -38,7 +38,7 @@ I'm a senior undergraduate student at Northeastern University, China. I am curre
 </div>
 </div>
 
-- Hardware Design and the Fairness of A Neural Network, Yuanbo Guo*, Zheyu Yan*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi, _Under Review at Nature Electronics, 2024_
+- Hardware Design and the Fairness of A Neural Network, Yuanbo Guo^{\*}, Zheyu Yan^{\*}, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi, _Under Review at Nature Electronics, 2024_
 
 # 🎖 Honors and Awards
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
