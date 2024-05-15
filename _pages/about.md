@@ -38,7 +38,7 @@ HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng P�
 </div>
 </div>
 
-- Hardware Design and the Fairness of A Neural Network, Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi, _Under Review at Nature Electronics, 2024_
+- Hardware Design and the Fairness of A Neural Network, Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi, _under review at Nature Electronics, 2024_
 
 # 🎖 Honors and Awards
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
