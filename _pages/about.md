@@ -67,5 +67,4 @@ HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng P�
 
 
 
-# 👻 Exchange Links
- [Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL), [Qingsong Yao](https://www.qingsongyao.tech/).
+👻 Exchange Links：[Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL), [Qingsong Yao](https://www.qingsongyao.tech/).
