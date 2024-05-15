@@ -34,7 +34,7 @@ I'm a senior undergraduate student at Northeastern University, China. I am curre
 **Qingpeng Kong**, Ching-Hao Chiu, Dewen Zeng, Yu-Jen Chen,Tsung-Yi Ho, Jingtong Hu and Yiyu Shi
 
 [**Project**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We prune "sensitive" CNN channels to achieve fairness while maintain high accuracy levels.
+- We prune "sensitive" CNN channels to achieve fairness while maintaining high accuracy levels.
 </div>
 </div>
 
