@@ -65,5 +65,7 @@ HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng P�
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-## Exchange Links
-❤ [Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL), [Qingsong Yao](https://www.qingsongyao.tech/).
+
+
+# 👻 Exchange Links
+ [Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL), [Qingsong Yao](https://www.qingsongyao.tech/).
