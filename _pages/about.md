@@ -38,7 +38,7 @@ I'm a senior undergraduate student at Northeastern University, China. I am curre
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Hardware Design and the Fairness of A Neural Network, Yuanbo Guo*, Zheyu Yan*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi, _Under Review at Nature Electronics, 2024_
 
 # 🎖 Honors and Awards
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
