@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingpeng Kong (孔庆芃)"
+  name             : "Qingpeng Kong"
   avatar           : "images/pic.png"
-  bio              : "MIRACLE Lab"
+  bio              : "(孔庆芃), MIRACLE Lab"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
