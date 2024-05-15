@@ -29,7 +29,7 @@ HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng P�
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis](http://arxiv.org/abs/2405.08681) <span style="color:palevioletred;"> early accept</span> (accept rate: 11%)
+[Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis](http://arxiv.org/abs/2405.08681) <span style="color:palevioletred;"> early accept</span> (acceptance rate: 11%)
 
 **Qingpeng Kong**, Ching-Hao Chiu, Dewen Zeng, Yu-Jen Chen,Tsung-Yi Ho, Jingtong Hu and Yiyu Shi
 
