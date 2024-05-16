@@ -22,7 +22,7 @@ HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng P�
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 A paper is early accepted by MICCAI 2024
-- *2024.04*：&nbsp;🎉🎉I receive Northeastern University Outstanding Graduate Student Award
+- *2024.04*: &nbsp;🎉🎉 I receive Northeastern University Outstanding Graduate Student Award
 - *2024.03*: &nbsp;🎉🎉 I join MIRACLE Lab as a coming master student
   
 # 📝 Publications 
