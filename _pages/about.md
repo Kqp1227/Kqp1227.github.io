@@ -28,7 +28,6 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 - *2024.03*: &nbsp;🎉🎉 I join MIRACLE Lab as a coming master student
   
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
