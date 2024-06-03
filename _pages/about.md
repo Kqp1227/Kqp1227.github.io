@@ -70,3 +70,5 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 ---
 👻 Exchange Links：[Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL), [Qingsong Yao](https://www.qingsongyao.tech/).
+🌏 Visitors:
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oK1LBxXT-BF_VM90VEB0Naxot4sLHLjywVNbkyNirAc&cl=ffffff&w=a"></script>
