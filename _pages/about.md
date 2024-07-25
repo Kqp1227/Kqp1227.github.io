@@ -44,7 +44,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Electronics</div><img src='images/ne.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [Hardware Design and the Fairness of A Neural Network](https://www.nature.com/articles/s41928-024-01213-0)
+[Hardware Design and the Fairness of A Neural Network](https://www.nature.com/articles/s41928-024-01213-0)
 
 Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi
 
