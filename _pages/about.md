@@ -48,7 +48,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi
 
-- We investigate the impact of hardware constraints on fairness-aware neural network design, focusing on compute-in-memory architectures and their advancements。
+- We investigate the impact of hardware constraints on fairness-aware neural network design, focusing on compute-in-memory architectures and their advancements.
 </div>
 </div>
 
