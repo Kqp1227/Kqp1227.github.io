@@ -66,7 +66,7 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 - *2021.09* Northeastern University Outstanding Students Pioneer.
   
 # 📖 Educations
-- *2024.09 (expected) - 2027.06 (expected)*, M.S., Biomedical Engineering, Department of Biomedical Engineering, Hefei, China.
+- *2024.09 (expected) - 2027.06 (expected)*, M.S., Biomedical Engineering, Department of Biomedical Engineering, University of Science and Technology of China, Hefei, China.
 - *2020.09 - 2024.06 (expected)*, B.E., Digital Media Technology, Software College, Northeastern University, Shenyang, China.
 - *2023.05 - 2023.07*, Visiting Student, Department of Computer Science and Engineering, University of Notre Dame, South Bend, USA.
 
