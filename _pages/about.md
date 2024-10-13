@@ -37,7 +37,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 **Qingpeng Kong**, Ching-Hao Chiu, Dewen Zeng, Yu-Jen Chen,Tsung-Yi Ho, Jingtong Hu and Yiyu Shi
 
-[**Project**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Poster**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Photos in MICCAI24@Morocco**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
+[**Project**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  [**Photos in MICCAI24@Morocco**](https://github.com/Kqp1227/Kqp1227.github.io/blob/main/images/68a69ea5d4a920d71085b0955639370.jpg) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 - We prune "sensitive" CNN channels to achieve fairness while maintaining high accuracy levels.
 </div>
 </div>
