@@ -23,7 +23,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I receive USTC First-class scholarship
+- *2024.09*: &nbsp;🎉🎉 I receive USTC First-class Scholarship
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by Nature Electronics
 - *2024.05*: &nbsp;🎉🎉 A paper is early accepted by MICCAI 2024
 - *2024.04*: &nbsp;🎉🎉 I receive NEU Outstanding Graduate Student Award
@@ -54,17 +54,17 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 </div>
 
 # 🎖 Honors and Awards
-- *2024.09* University of Science and Technology of China First-class scholarship.
+- *2024.09* University of Science and Technology of China First-class Scholarship.
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
-- *2024.03* Northeastern University First-class scholarship.
+- *2024.03* Northeastern University First-class Scholarship.
 - *2023.09* Second Place, Fair and Intelligent Embedded System Challenge at 19th ACM/IEEE EMBEDDED SYSTEMS WEEK.
 - *2023.09* Northeastern University Outstanding Students.
 - *2022.09* National scholarship.
 - *2022.09* Northeastern University Outstanding Student Medal Award.
-- *2022.09* Northeastern University First-class scholarship.
+- *2022.09* Northeastern University First-class Scholarship.
 - *2022.09* Northeastern University Outstanding Students Pioneer.
 - *2021.09* National scholarship.
-- *2021.09* Northeastern University First-class scholarship.
+- *2021.09* Northeastern University First-class Scholarship.
 - *2021.09* Northeastern University Outstanding Students Pioneer.
   
 # 📖 Educations
