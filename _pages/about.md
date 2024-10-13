@@ -23,9 +23,10 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 I receive USTC First-class scholarship
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by Nature Electronics
 - *2024.05*: &nbsp;🎉🎉 A paper is early accepted by MICCAI 2024
-- *2024.04*: &nbsp;🎉🎉 I receive Northeastern University Outstanding Graduate Student Award
+- *2024.04*: &nbsp;🎉🎉 I receive NEU Outstanding Graduate Student Award
 - *2024.03*: &nbsp;🎉🎉 I join MIRACLE Lab as a coming master student
   
 # 📝 Publications 
@@ -36,7 +37,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 **Qingpeng Kong**, Ching-Hao Chiu, Dewen Zeng, Yu-Jen Chen,Tsung-Yi Ho, Jingtong Hu and Yiyu Shi
 
-[**Project**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Poster**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Photos in MICCAI24@Morocco**](https://github.com/Kqp1227/Sensitive-Channel-Pruning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 - We prune "sensitive" CNN channels to achieve fairness while maintaining high accuracy levels.
 </div>
 </div>
@@ -53,6 +54,7 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 </div>
 
 # 🎖 Honors and Awards
+- *2024.09* University of Science and Technology of China First-class scholarship.
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
 - *2024.03* Northeastern University First-class scholarship.
 - *2023.09* Second Place, Fair and Intelligent Embedded System Challenge at 19th ACM/IEEE EMBEDDED SYSTEMS WEEK.
