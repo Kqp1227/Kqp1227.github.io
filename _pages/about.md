@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I'm a first-year master student at the Suzhou Institute for Advanced Research, co-supervised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and [Dr. Zihang Jiang](https://zihangjiang.github.io/). Previously, I served as a visiting intern at the [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) located at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/). I also closely worked with [Dr. Xiaomeng Li](https://xmengli.github.io/) at HKUST, [Dr. Xiaowei Xu](https://xiaoweixu.github.io/) at Guangdong Provincial People's Hospital, [Dr. Wenfeng Song](https://buaaswf.github.io/songwenfeng/) at Beijing Information Science and Technology University, and [Prof. Tao Ren](http://faculty.neu.edu.cn/rent/en/zhym/63153/list/index.htm) at Northeastern University.
+HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I'm a first-year master student at the Suzhou Institute for Advanced Research, University of Science and Technology of China (USTC), co-supervised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and [Dr. Zihang Jiang](https://zihangjiang.github.io/). Previously, I served as a visiting intern at the [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) located at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/). I also closely worked with [Dr. Xiaomeng Li](https://xmengli.github.io/) at HKUST, [Dr. Xiaowei Xu](https://xiaoweixu.github.io/) at Guangdong Provincial People's Hospital, [Dr. Wenfeng Song](https://buaaswf.github.io/songwenfeng/) at Beijing Information Science and Technology University, and [Prof. Tao Ren](http://faculty.neu.edu.cn/rent/en/zhym/63153/list/index.htm) at Northeastern University.
 
 My research primarily focuses on AI4Med, AI fairness, and computer vision. If you are interested in my work or want to collaborate, feel free to contact me via email: qpkong27 [at] gmail [dot] com. 🥳
 
@@ -53,6 +53,7 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 </div>
 
 # 🎖 Honors and Awards
+- *2024.09* University of Science and Technology of China Graduate First-class Scholarship.
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
 - *2024.03* Northeastern University First-class Scholarship.
 - *2023.09* Second Place, Fair and Intelligent Embedded System Challenge at 19th ACM/IEEE EMBEDDED SYSTEMS WEEK.
@@ -78,7 +79,7 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 
 
 ---
-👻 Exchange Links：[Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL), [Qingsong Yao](https://www.qingsongyao.tech/).
+👻 Exchange Links：[Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL).
 
 🌏 Thank you for your visits: 
 <div style="transform: scale(0.8);">
