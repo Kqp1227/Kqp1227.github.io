@@ -24,7 +24,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 A paper is accepted by ICLR 2025
-- *2024.09*: &nbsp;🎉🎉 I receive USTC Graduate First-class Scholarship.
+- *2024.09*: &nbsp;🎉🎉 I receive USTC Graduate First-class Scholarship
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by Nature Electronics
 - *2024.05*: &nbsp;🎉🎉 A paper is early accepted by MICCAI 2024
 - *2024.04*: &nbsp;🎉🎉 I receive NEU Outstanding Graduate Student Award
