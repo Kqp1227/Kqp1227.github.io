@@ -23,12 +23,25 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 A paper is accepted by ICLR 2025
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by Nature Electronics
 - *2024.05*: &nbsp;🎉🎉 A paper is early accepted by MICCAI 2024
 - *2024.04*: &nbsp;🎉🎉 I receive NEU Outstanding Graduate Student Award
 - *2024.03*: &nbsp;🎉🎉 I join MIRACLE Lab as a coming master student
   
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement](https://arxiv.org/abs/2501.13514) <span style="color:palevioletred;"> 
+
+Chenxu Wu, **Qingpeng Kong**, Zihang Jiang and S. Kevin Zhou
+
+- We propose _Di-Fusion_, a self-supervised denoising method for diffusion MRI that leverages later diffusion steps and adaptive sampling.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
