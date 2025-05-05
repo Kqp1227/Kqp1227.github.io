@@ -93,7 +93,7 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 
 
 ---
-👻 Exchange Links：[Yimo Deng](https://dengemo.com/), [Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL).
+👻 Exchange Links：[Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL).
 
 🌏 Thank you for your visits: 
 <div style="transform: scale(0.8);">
