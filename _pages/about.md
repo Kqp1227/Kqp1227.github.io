@@ -23,6 +23,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 A paper is accepted by npj Digital Medicine
 - *2025.01*: &nbsp;🎉🎉 A paper is accepted by ICLR 2025
 - *2024.09*: &nbsp;🎉🎉 I receive USTC Graduate First-class Scholarship
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by Nature Electronics
@@ -31,6 +32,17 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 - *2024.03*: &nbsp;🎉🎉 I join MIRACLE Lab as a coming master student
   
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Digital Medicine</div><img src='images/npj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings](https://www.nature.com/articles/s41746-025-01641-y) <span style="color:palevioletred;"> 
+
+Zikang Xu, Fenghe Tang, Quan Quan, Qingsong Yao, **Qingpeng Kong**, Jianrui Ding, Chunping Ning and S. Kevin Zhou 
+
+- we propose _APPLE_, a novel approach designed to mitigate unfairness without altering the parameters of the base model.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
