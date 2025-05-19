@@ -39,7 +39,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 Zikang Xu, Fenghe Tang, Quan Quan, Qingsong Yao, **Qingpeng Kong**, Jianrui Ding, Chunping Ning and S. Kevin Zhou 
 
-- we propose _APPLE_, a novel approach designed to mitigate unfairness without altering the parameters of the base model.
+- We propose _APPLE_, a novel approach designed to mitigate unfairness without altering the parameters of the base model.
 </div>
 </div>
 
