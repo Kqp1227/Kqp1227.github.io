@@ -35,7 +35,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Digital Medicine</div><img src='images/npj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings](https://www.nature.com/articles/s41746-025-01641-y) <span style="color:palevioletred;"> 
+[Fair Ultrasound Diagnosis via Adversarial Protected Attribute Aware Perturbations on Latent Embeddings](https://www.nature.com/articles/s41746-025-01641-y) <span style="color:palevioletred;"> 
 
 Zikang Xu, Fenghe Tang, Quan Quan, Qingsong Yao, **Qingpeng Kong**, Jianrui Ding, Chunping Ning and S. Kevin Zhou 
 
