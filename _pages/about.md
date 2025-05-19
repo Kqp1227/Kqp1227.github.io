@@ -51,6 +51,7 @@ Zikang Xu, Fenghe Tang, Quan Quan, Qingsong Yao, **Qingpeng Kong**, Jianrui Ding
 Chenxu Wu, **Qingpeng Kong**, Zihang Jiang and S. Kevin Zhou
 
 - We propose _Di-Fusion_, a self-supervised denoising method for diffusion MRI that leverages later diffusion steps and adaptive sampling.
+
 [**Project**](https://github.com/FouierL/Di-Fusion) [**Photos in ICLR25@Singapore**](https://github.com/Kqp1227/Kqp1227.github.io/blob/main/images/iclr_photo.jpg)
 </div>
 </div>
