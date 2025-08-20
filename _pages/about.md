@@ -30,7 +30,6 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by Nature Electronics
 - *2024.05*: &nbsp;🎉🎉 A paper is early accepted by MICCAI 2024
 - *2024.04*: &nbsp;🎉🎉 I receive NEU Outstanding Graduate Student Award
-- *2024.03*: &nbsp;🎉🎉 I join MIRACLE Lab as a coming master student
   
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Digital Medicine</div><img src='images/npj.png' alt="sym" width="100%"></div></div>
