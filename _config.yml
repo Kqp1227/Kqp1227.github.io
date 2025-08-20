@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingpeng Kong"
   avatar           : "images/pic.png"
-  bio              : "MIRACLE Lab"
+  bio              : "UC Berkeley"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KX48hvEAAAAJ"
-  email            : "qpkong27@163.com"
+  email            : "qpkong27@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
