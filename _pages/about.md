@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I'm a first-year master student at the Suzhou Institute for Advanced Research, University of Science and Technology of China (USTC), co-supervised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and [Dr. Zihang Jiang](https://zihangjiang.github.io/). Previously, I served as a visiting intern at the [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) located at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/). I also closely worked with [Dr. Po-Chih Kuo](https://sites.google.com/site/bfantasykuo/) at NTHU, and [Dr. Xiaowei Xu](https://xiaoweixu.github.io/) at Guangdong Provincial People's Hospital.
+HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I'm a  master student at UC Berkeley and currently a visiting researcher at MIT, advised by [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo). Previously, I conducted graduate research at University of Science and Technology of China (USTC), co-supervised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and [Dr. Zihang Jiang](https://zihangjiang.github.io/). I also served as a visiting intern at the [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) located at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/), and closely worked with [Dr. Po-Chih Kuo](https://sites.google.com/site/bfantasykuo/) at NTHU, and [Dr. Xiaowei Xu](https://xiaoweixu.github.io/) at Guangdong Provincial People's Hospital.
 
 My research primarily focuses on AI4Med, AI fairness, and computer vision. If you are interested in my work or want to collaborate, feel free to contact me via email: qpkong27 [at] gmail [dot] com. 🥳
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 A paper is accepted by MICCAI 2025
 - *2025.05*: &nbsp;🎉🎉 A paper is accepted by npj Digital Medicine
 - *2025.01*: &nbsp;🎉🎉 A paper is accepted by ICLR 2025
 - *2024.09*: &nbsp;🎉🎉 I receive USTC Graduate First-class Scholarship
@@ -95,8 +96,11 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 - *2021.09* Northeastern University Outstanding Students Pioneer.
   
 # 📖 Educations
-- *2020.09 - 2024.06*, B.E., Digital Media Technology, Software College, Northeastern University, Shenyang, China.
+- *2025.08 - 2026.06 (Expected)*, M.Eng., Electrical Engineering and in Computer Science, UC Berkeley, California, USA.
+- *2024.09 - 2025.06*, M.S., Biomedical Engineering, School of Biomedical Engineering, University of Science and Technology of China, Hefei, China (Currently on a leave (2025.7 - 2026.7).
 - *2023.05 - 2023.07*, Visiting Student, Department of Computer Science and Engineering, University of Notre Dame, South Bend, USA.
+- *2020.09 - 2024.06*, B.E., Digital Media Technology, Software College, Northeastern University, Shenyang, China.
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
