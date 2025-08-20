@@ -96,7 +96,7 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
   
 # 📖 Educations
 - *2025.08 - 2026.06 (Expected)*, M.Eng., Electrical Engineering and in Computer Science, UC Berkeley, California, USA.
-- *2024.09 - 2025.06*, M.S., Biomedical Engineering, School of Biomedical Engineering, University of Science and Technology of China, Hefei, China (Currently on a leave (2025.7 - 2026.7).
+- *2024.09 - 2025.06*, M.S., Biomedical Engineering, School of Biomedical Engineering, University of Science and Technology of China, Hefei, China.
 - *2023.05 - 2023.07*, Visiting Student, Department of Computer Science and Engineering, University of Notre Dame, South Bend, USA.
 - *2020.09 - 2024.06*, B.E., Digital Media Technology, Software College, Northeastern University, Shenyang, China.
 
