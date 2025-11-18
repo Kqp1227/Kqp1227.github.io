@@ -23,6 +23,7 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 A paper is accepted by WACV 2025
 - *2025.06*: &nbsp;🎉🎉 A paper is accepted by MICCAI 2025
 - *2025.05*: &nbsp;🎉🎉 A paper is accepted by npj Digital Medicine
 - *2025.01*: &nbsp;🎉🎉 A paper is accepted by ICLR 2025
@@ -32,6 +33,17 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 - *2024.04*: &nbsp;🎉🎉 I receive NEU Outstanding Graduate Student Award
   
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/wacv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Equivariant Sampling for Improving Diffusion Model-based Image Restoration](https://arxiv.org/pdf/2511.09965) <span style="color:palevioletred;"> 
+
+Chenxu Wu, **Qingpeng Kong**, Peiang Zhao, Wendi Yang, Wenxin Ma, Fenghe Tang, Zihang Jiang, S.Kevin Zhou
+
+- We introduce _EquS_, a diffusion model-based image restoration method that imposes equivariant information through dual sampling trajectorie.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Digital Medicine</div><img src='images/npj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
