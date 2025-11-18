@@ -92,7 +92,8 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards-
+- *2025.08* UC Berkeley College of Engineering Fung Fellowship.
 - *2024.09* University of Science and Technology of China Graduate First-class Scholarship.
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
 - *2024.03* Northeastern University First-class Scholarship.
