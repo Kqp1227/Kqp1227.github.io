@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I'm a master’s student at UC Berkeley and am fortunate to collaborate with [Prof. Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and [Prof. Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/) at the [Berkeley AI Research (BAIR) Lab](https://bair.berkeley.edu/). Previously, I was a visiting researcher at MIT, advised by [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo). I conducted graduate research at University of Science and Technology of China (USTC), co-supervised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and [Dr. Zihang Jiang](https://zihangjiang.github.io/). I also served as a visiting intern at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/), and closely worked with [Prof. Po-Chih Kuo](https://sites.google.com/site/bfantasykuo/) at NTHU, and [Prof. Xiaowei Xu](https://xiaoweixu.github.io/) at Guangdong Provincial People's Hospital.
+HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I am currently a first-year PhD student at Carnegie Mellon University, fortunate to be advised by [Prof. Michelle Li](https://michellemli.com/). Previously, I earned my MEng degree from UC Berkeley, where I was fortunate to collaborate with [Prof. Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and [Prof. Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/) at the Berkeley AI Research (BAIR) Lab. Before that, I was a visiting researcher at MIT, advised by [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo). I also conducted graduate research at University of Science and Technology of China (USTC), co-supervised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and [Dr. Zihang Jiang](https://zihangjiang.github.io/). In addition, I served as a visiting intern at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/), and closely worked with [Prof. Po-Chih Kuo](https://sites.google.com/site/bfantasykuo/) at NTHU.
 
 My research primarily focuses on AI4Med, AI fairness, and computer vision. If you are interested in my work or want to collaborate, feel free to contact me via email: qpkong27 [at] gmail [dot] com. 🥳
 
@@ -108,7 +108,8 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 - *2021.09* Northeastern University Outstanding Students Pioneer.
   
 # 📖 Educations
-- *2025.08 - 2026.06 (Expected)*, M.Eng., Electrical Engineering and in Computer Science, UC Berkeley, California, USA.
+- *2026.08 - present*, Ph.D., Biomedical Engineering, Carnegie Mellon University, USA. 
+- *2025.08 - 2026.05*, M.Eng., Electrical Engineering and Computer Science, UC Berkeley, California, USA.
 - *2024.09 - 2025.06*, M.S. Candidate, Biomedical Engineering, School of Biomedical Engineering, University of Science and Technology of China, Hefei, China.
 - *2023.05 - 2023.07*, Visiting Student, Department of Computer Science and Engineering, University of Notre Dame, South Bend, USA.
 - *2020.09 - 2024.06*, B.E., Digital Media Technology, Software College, Northeastern University, Shenyang, China.
@@ -121,9 +122,6 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-
----
-👻 Exchange Links：[Ching-Hao Chiu](https://chiuhaohao.github.io/), [Chenxu Wu](https://github.com/FouierL).
 
 🌏 Thank you for your visits: 
 <div style="transform: scale(0.8);">
