@@ -123,10 +123,5 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-🌏 Thank you for your visits: 
-<div style="transform: scale(0.3);">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=jddx8ia3WqGfAzT1_kHUo33lnUjRDLpUNh04I2KnfYY&cl=ffffff&w=a"></script>
-</div>
-
 
 
