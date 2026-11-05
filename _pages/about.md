@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I am currently a first-year PhD student at Carnegie Mellon University, fortunate to be advised by [Prof. Michelle Li](https://michellemli.com/). Previously, I earned my MEng degree from UC Berkeley, where I was fortunate to collaborate with [Prof. Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and [Prof. Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/) at the Berkeley AI Research (BAIR) Lab. Before that, I was a visiting researcher at MIT, advised by [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo). I also conducted graduate research at University of Science and Technology of China (USTC), co-supervised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and [Dr. Zihang Jiang](https://zihangjiang.github.io/). In addition, I served as a visiting intern at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/), and closely worked with [Prof. Po-Chih Kuo](https://sites.google.com/site/bfantasykuo/) at NTHU.
+HI! My name is Qingpeng Kong (孔庆芃 in Chinese, pronounced as Kǒng Qìng Péng or Kaw-ng Ching Puh-ng), and you can also call me Erica.🥰 I am currently a first-year PhD student at Carnegie Mellon University, fortunate to be advised by [Prof. Michelle Li](https://michellemli.com/). Previously, I earned my MEng degree from UC Berkeley, where I was fortunate to collaborate with [Prof. Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and [Prof. Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/) at the Berkeley AI Research (BAIR) Lab. Before that, I was a visiting researcher at MIT, advised by [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo). In addition, I served as a visiting intern at the University of Notre Dame, supervised by [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/), and closely worked with [Prof. Po-Chih Kuo](https://sites.google.com/site/bfantasykuo/) at NTHU.
 
 My research primarily focuses on AI4Med, AI fairness, and computer vision. If you are interested in my work or want to collaborate, feel free to contact me via email: qpkong27 [at] gmail [dot] com. 🥳
 
@@ -27,7 +27,6 @@ My research primarily focuses on AI4Med, AI fairness, and computer vision. If yo
 - *2025.06*: &nbsp;🎉🎉 A paper is accepted by MICCAI 2025
 - *2025.05*: &nbsp;🎉🎉 A paper is accepted by npj Digital Medicine
 - *2025.01*: &nbsp;🎉🎉 A paper is accepted by ICLR 2025
-- *2024.09*: &nbsp;🎉🎉 I receive USTC Graduate First-class Scholarship
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by Nature Electronics
 - *2024.05*: &nbsp;🎉🎉 A paper is early accepted by MICCAI 2024
 - *2024.04*: &nbsp;🎉🎉 I receive NEU Outstanding Graduate Student Award
@@ -94,7 +93,6 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 
 # 🎖 Honors and Awards-
 - *2025.08* UC Berkeley College of Engineering Fung Fellowship.
-- *2024.09* University of Science and Technology of China Graduate First-class Scholarship.
 - *2024.04* Northeastern University Outstanding Graduate Student Award.
 - *2024.03* Northeastern University First-class Scholarship.
 - *2023.09* Second Place, Fair and Intelligent Embedded System Challenge at 19th ACM/IEEE EMBEDDED SYSTEMS WEEK.
@@ -110,7 +108,6 @@ Yuanbo Guo\*, Zheyu Yan\*, Xiaoting Yu, **Qingpeng Kong**, Joy C. Xie, Dewen Zen
 # 📖 Educations
 - *2026.08 - present*, Ph.D., Biomedical Engineering, Carnegie Mellon University, USA. 
 - *2025.08 - 2026.05*, M.Eng., Electrical Engineering and Computer Science, UC Berkeley, California, USA.
-- *2024.09 - 2025.06*, M.S. Candidate, Biomedical Engineering, School of Biomedical Engineering, University of Science and Technology of China, Hefei, China.
 - *2023.05 - 2023.07*, Visiting Student, Department of Computer Science and Engineering, University of Notre Dame, South Bend, USA.
 - *2020.09 - 2024.06*, B.E., Digital Media Technology, Software College, Northeastern University, Shenyang, China.
 
